@@ -1,6 +1,6 @@
 # Reporting Security Issues
 
-This document outlines the security policy and procedures for projects under the Silicon Savannah Security (SISA Sec) organization.
+This document outlines the security policy and procedures for projects under the Silicon Savannah Security (Sisasec) organization.
 
 ## Supported Versions
 
@@ -8,7 +8,7 @@ For each project, we aim to release security patches for the most recent version
 
 ## Reporting a Vulnerability
 
-We encourage the responsible reporting of security-related vulnerabilities. To report a suspected vulnerability in any SISA Sec project, please use one of the following methods:
+We encourage the responsible reporting of security-related vulnerabilities. To report a suspected vulnerability in any sisasec project, please use one of the following methods:
 
 - Submitting an **issue** to the relevant project repository.
 - Submitting a **pull request** with a potential fix to the relevant project repository.
