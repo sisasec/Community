@@ -2,26 +2,17 @@
 
 # Silicon Savannah Security
 
-
-
-[![Website](https://img.shields.io/badge/WEBSITE-sisasec.com-0BDA51?style=for-the-badge&labelColor=0A0A0A)](https://www.sisasec.com)
-[![Docs](https://img.shields.io/badge/DOCS-docs.sisasec.com-0BDA51?style=for-the-badge&labelColor=0A0A0A)](https://docs.sisasec.com/en)
-[![GitHub](https://img.shields.io/badge/GITHUB-sisasec-0BDA51?style=for-the-badge&labelColor=0A0A0A)](https://github.com/sisasec)
-
----
-
-
-> Sisasec delivers end to end security solutions from hands on penetration testing and red team operations to virtual CISO leadership, cloud hardening, and AI driven detection. Every engagement is built on manual validation, not scanner noise, and reported for both engineers and auditors.
+Sisasec delivers end to end security solutions from hands on penetration testing and red team operations to virtual CISO leadership, cloud hardening, and AI driven detection. Every engagement is built on manual validation, not scanner noise, and reported for both engineers and auditors.
 
 ---
 
 ### Table of Contents
 
-- [Services](#services)
+- [Solutions](#services)
 - [Resources](#resources)
 - [Getting Started](#getting-started)
-- [Community Guidelines](#community-guidelines)
-- [Reporting a Vulnerability](#reporting-a-vulnerability)
+- [Guidelines](#community-guidelines)
+- [Vulnerability](#reporting-a-vulnerability)
 - [License](#license)
 - [Contact](#contact)
 
