@@ -101,4 +101,4 @@ See the [LICENSE](https://github.com/sisasec) file in the relevant repository fo
 
 ## Contact
 
-For general enquiries, partnership opportunities, or engagement scoping, reach out via [sisasec.com](https://www.sisasec.com) or email **legal@sisasec.com**.
+For general enquiries, partnership opportunities, or engagement scoping, reach out via [sisasec.com](https://www.sisasec.com) or email **hello@sisasec.com**.
