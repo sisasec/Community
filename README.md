@@ -48,7 +48,7 @@ Strategic leadership and operational hardening, built from the inside out.
 
 | Service | What it delivers |
 |:--|:--|
-| **vCISO Retainer** | Senior security leadership — strategy, risk management, and board reporting — without the overhead of a full-time hire. |
+| **vCISO Retainer** | Senior security leadership strategy, risk management, and board reporting without the overhead of a full-time hire. |
 | **Security Architecture** | Design and hardening of cloud, network, and endpoint architecture, reviewed with adversarial thinking. |
 | **Security Operations Advisory** | SOC maturity assessment, detection tuning, and playbook rebuilding to close the gap between logging and catching. |
 | **Incident Response Retainer** | Pre-arranged rapid response with guaranteed SLAs, digital forensics, and post-incident reporting. |
